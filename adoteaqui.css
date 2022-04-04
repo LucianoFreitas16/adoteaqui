@@ -1,0 +1,75 @@
+html,body{
+    height: 100%;
+  padding: 0%;
+  border: 0ch;
+ color: white;
+ margin: 0%;
+ background-image: url(https://caocidadao.com.br/wp-content/uploads/2019/02/como-agir-caso-encontre-um-cachorro-abandonado-interna.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+ 
+}
+a{
+    text-decoration: none;
+    color: yellow;
+    transition: all 1s;
+ 
+}
+a:hover{
+    color: white;
+} 
+.p1{
+    background-color: rgba(14, 3, 3, 0.301);
+}
+.paragrafo{
+     width: 50%;
+    font-size: 25px;
+    flex-direction: column;
+   font-family: Arial, Helvetica, sans-serif;
+   color: white;
+   height: 85%;
+}
+.adoteaqui>h1 {
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    width: 50%;
+    font-size: 30px;
+    display: flex;
+    justify-content: flex-start;
+    color: yellow;
+
+
+}
+.adoteaqui{
+    align-items: center ;
+    height: 10%;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    justify-content: space-between;
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+    letter-spacing: 1px;
+    font-size: 30px;
+}
+.container{
+    font-weight: 100;
+color: rgb(230, 240, 99);
+font-size: 25px;
+justify-content: space-evenly;
+width: 50%;
+display: flex;
+font-family: Arial, Helvetica, sans-serif;
+
+align-items: center;
+}
+.footer{
+    justify-content: center;
+    font-size: 23px;
+    font-weight: 100;
+    display: flex;
+background-color: rgb(0, 0, 0);
+color: yellow;
+    
+}
